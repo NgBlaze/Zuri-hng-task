@@ -13,7 +13,7 @@ if (isset($_GET['slackusername'])) {
     $slackusername = "Blaze";
     $backend = "true";
     $age = "30";
-    $bio = "PHP backend developer with Networking and  Cybersec experience";
+    $bio = "PHP backend developer";
 }
 
 settype($slackusername, "string");
